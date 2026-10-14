@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Sales-Pipeline-Forecasting-Win-Rate-Analyzers?style=flat-square&color=orange" alt="Last Commit"/></a>
@@ -93,75 +93,75 @@ The following platforms represent the leading commercial Revenue Intelligence an
 
 The following open-source frameworks, CRM platforms, and machine learning repositories allow data science and revenue operations teams to build, self-host, and customize sales forecasting and deal risk modeling pipelines. 
 
-The list is **sorted strictly descending by GitHub star count** ⭐. Every entry includes a social star badge linking directly to that repository's stargazers page:
+The list is **sorted strictly descending by GitHub Stars_Count** ⭐. Every entry includes a social Stars_Badge linking directly to that repository's stargazers page:
 
-1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+1. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    Modern, extensible open-source CRM with visual sales pipeline management, custom opportunity stages, deal tracking, and revenue forecasting analytics. Built with TypeScript and React; provides full data autonomy and self-hosting capabilities.
 
-2. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
+2. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
    Enterprise-grade open-source CRM featuring end-to-end sales pipeline workflows, opportunity stage win-rate probabilities, rep quota monitoring, and detailed forecast reporting dashboards.
 
-3. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+3. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
    Lightweight, highly customizable open-source CRM featuring sales pipeline Kanban boards, deal stage weighted values, conversion rate tracking, and sales analytics reports.
 
-4. **[Deep Learning for Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)** [![GitHub stars](https://img.shields.io/github/stars/Alro10/deep-learning-time-series?style=social&color=white)](https://github.com/Alro10/deep-learning-time-series/stargazers)  
+4. **[Deep Learning for Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series)** [![GitHub_Stars](https://img.shields.io/github/stars/Alro10/deep-learning-time-series?style=social&color=white)](https://github.com/Alro10/deep-learning-time-series/stargazers)  
    Curated collection of research papers, code implementations, and benchmark architectures (LSTMs, Transformers, N-BEATS, Temporal Fusion Transformers) for predictive time-series and demand/revenue forecasting.
 
-5. **[Walmart Sales Forecasting Solution](https://github.com/davidthaler/Walmart_competition_code)** [![GitHub stars](https://img.shields.io/github/stars/davidthaler/Walmart_competition_code?style=social&color=white)](https://github.com/davidthaler/Walmart_competition_code/stargazers)  
+5. **[Walmart Sales Forecasting Solution](https://github.com/davidthaler/Walmart_competition_code)** [![GitHub_Stars](https://img.shields.io/github/stars/davidthaler/Walmart_competition_code?style=social&color=white)](https://github.com/davidthaler/Walmart_competition_code/stargazers)  
    The 1st-place Kaggle competition winning code for enterprise sales forecasting, featuring robust seasonal decomposition, holiday weighting, and multi-model ensemble regression.
 
-6. **[sales_forecasting](https://github.com/mollyryanruby/sales_forecasting)** [![GitHub stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)  
+6. **[sales_forecasting](https://github.com/mollyryanruby/sales_forecasting)** [![GitHub_Stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)  
    Production-oriented Python ML pipeline benchmarking 5 machine learning and statistical models (ARIMA, Linear Regression, Random Forest, XGBoost) to forecast sales volume and revenue.
 
-7. **[Sales-Prediction](https://github.com/ROHANNAIK/Sales-Prediction)** [![GitHub stars](https://img.shields.io/github/stars/ROHANNAIK/Sales-Prediction?style=social&color=white)](https://github.com/ROHANNAIK/Sales-Prediction/stargazers)  
+7. **[Sales-Prediction](https://github.com/ROHANNAIK/Sales-Prediction)** [![GitHub_Stars](https://img.shields.io/github/stars/ROHANNAIK/Sales-Prediction?style=social&color=white)](https://github.com/ROHANNAIK/Sales-Prediction/stargazers)  
    Comprehensive retail and transactional sales forecasting engine modeling items, stores, and external macroeconomic indicators (fuel price, inflation, holiday calendars).
 
-8. **[Horilla CRM](https://github.com/horilla/horilla-crm)** [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white)](https://github.com/horilla/horilla-crm/stargazers)  
+8. **[Horilla CRM](https://github.com/horilla/horilla-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white)](https://github.com/horilla/horilla-crm/stargazers)  
    Free and open-source enterprise CRM under LGPL-2.1+ with lead and deal pipelines, role-based access control, Swagger REST APIs, webhooks, and Docker Compose deployment.
 
-9. **[sales-forecast-mlops-at-scale](https://github.com/jomariya23156/sales-forecast-mlops-at-scale)** [![GitHub stars](https://img.shields.io/github/stars/jomariya23156/sales-forecast-mlops-at-scale?style=social&color=white)](https://github.com/jomariya23156/sales-forecast-mlops-at-scale/stargazers)  
+9. **[sales-forecast-mlops-at-scale](https://github.com/jomariya23156/sales-forecast-mlops-at-scale)** [![GitHub_Stars](https://img.shields.io/github/stars/jomariya23156/sales-forecast-mlops-at-scale?style=social&color=white)](https://github.com/jomariya23156/sales-forecast-mlops-at-scale/stargazers)  
    Full-stack, cloud-native MLOps architecture for continuous sales and demand forecasting with real-time streaming inference, automated data drift monitoring, and scheduled retraining loops.
 
-10. **[Sales-Forecasting ARIMA](https://github.com/Akajiaku11/Sales-Forecasting)** [![GitHub stars](https://img.shields.io/github/stars/Akajiaku11/Sales-Forecasting?style=social&color=white)](https://github.com/Akajiaku11/Sales-Forecasting/stargazers)  
+10. **[Sales-Forecasting ARIMA](https://github.com/Akajiaku11/Sales-Forecasting)** [![GitHub_Stars](https://img.shields.io/github/stars/Akajiaku11/Sales-Forecasting?style=social&color=white)](https://github.com/Akajiaku11/Sales-Forecasting/stargazers)  
     Practical time-series sales forecasting workflow in Python demonstrating stationary testing, autocorrelation (ACF/PACF), ARIMA fitting, and revenue projection validation.
 
-11. **[Meow](https://github.com/nash-md/meow)** [![GitHub stars](https://img.shields.io/github/stars/nash-md/meow?style=social&color=white)](https://github.com/nash-md/meow/stargazers)  
+11. **[Meow](https://github.com/nash-md/meow)** [![GitHub_Stars](https://img.shields.io/github/stars/nash-md/meow?style=social&color=white)](https://github.com/nash-md/meow/stargazers)  
     Free sales pipeline management tool that gives teams a bird's-eye view of their entire funnel and automatically updates revenue forecasts as opportunities move down sales stages.
 
-12. **[ml-forecast-features-eng](https://github.com/samirsaci/ml-forecast-features-eng)** [![GitHub stars](https://img.shields.io/github/stars/samirsaci/ml-forecast-features-eng?style=social&color=white)](https://github.com/samirsaci/ml-forecast-features-eng/stargazers)  
+12. **[ml-forecast-features-eng](https://github.com/samirsaci/ml-forecast-features-eng)** [![GitHub_Stars](https://img.shields.io/github/stars/samirsaci/ml-forecast-features-eng?style=social&color=white)](https://github.com/samirsaci/ml-forecast-features-eng/stargazers)  
     Advanced feature engineering framework for machine learning sales forecasting, detailing lag variable creation, rolling window aggregates, trend extraction, and seasonality matrices.
 
-13. **[product-sales-forecasting](https://github.com/akshitvjain/product-sales-forecasting)** [![GitHub stars](https://img.shields.io/github/stars/akshitvjain/product-sales-forecasting?style=social&color=white)](https://github.com/akshitvjain/product-sales-forecasting/stargazers)  
+13. **[product-sales-forecasting](https://github.com/akshitvjain/product-sales-forecasting)** [![GitHub_Stars](https://img.shields.io/github/stars/akshitvjain/product-sales-forecasting?style=social&color=white)](https://github.com/akshitvjain/product-sales-forecasting/stargazers)  
     Comparative time-series forecasting suite using Holt-Winters, SARIMA, and regression models evaluated on MAE, RMSE, and MAPE benchmarks.
 
-14. **[Sheety CRM](https://github.com/sdntsng/sheety-crm)** [![GitHub stars](https://img.shields.io/github/stars/sdntsng/sheety-crm?style=social&color=white)](https://github.com/sdntsng/sheety-crm/stargazers)  
+14. **[Sheety CRM](https://github.com/sdntsng/sheety-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/sdntsng/sheety-crm?style=social&color=white)](https://github.com/sdntsng/sheety-crm/stargazers)  
     Stateless, open-source CRM operating over Google Sheets, featuring pipeline stage management, deal opportunity tracking, and lightweight weighted revenue forecasting.
 
-15. **[LeadGenius](https://github.com/Astoriel/LeadGenius)** [![GitHub stars](https://img.shields.io/github/stars/Astoriel/LeadGenius?style=social&color=white)](https://github.com/Astoriel/LeadGenius/stargazers)  
+15. **[LeadGenius](https://github.com/Astoriel/LeadGenius)** [![GitHub_Stars](https://img.shields.io/github/stars/Astoriel/LeadGenius?style=social&color=white)](https://github.com/Astoriel/LeadGenius/stargazers)  
     Open-source B2B lead scoring and routing engine. Designed as a self-hosted alternative to Clearbit and MadKudu with waterfall enrichment, customizable YAML scoring rules, and automated HubSpot/Slack notifications.
 
-16. **[full-funnel-ai-analytics](https://github.com/eduardocornelsen/full-funnel-ai-analytics)** [![GitHub stars](https://img.shields.io/github/stars/eduardocornelsen/full-funnel-ai-analytics?style=social&color=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics/stargazers)  
+16. **[full-funnel-ai-analytics](https://github.com/eduardocornelsen/full-funnel-ai-analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/eduardocornelsen/full-funnel-ai-analytics?style=social&color=white)](https://github.com/eduardocornelsen/full-funnel-ai-analytics/stargazers)  
     Full-funnel B2B AI analytics framework connecting marketing attribution, sales pipeline velocity, and conversion probability models.
 
-17. **[ChurnGuard AI](https://github.com/ShreyasDasari/churnguard-ai)** [![GitHub stars](https://img.shields.io/github/stars/ShreyasDasari/churnguard-ai?style=social&color=white)](https://github.com/ShreyasDasari/churnguard-ai/stargazers)  
+17. **[ChurnGuard AI](https://github.com/ShreyasDasari/churnguard-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/ShreyasDasari/churnguard-ai?style=social&color=white)](https://github.com/ShreyasDasari/churnguard-ai/stargazers)  
     Self-hosted SaaS churn prediction using XGBoost and LightGBM with SMOTEENN resampling, PR-AUC evaluation, and revenue-weighted customer retention prioritization. Supports HubSpot, Stripe, and CSV imports.
 
-18. **[AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System)** [![GitHub stars](https://img.shields.io/github/stars/Isha2605/AI-Driven-CRM-Analytics-System?style=social&color=white)](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System/stargazers)  
+18. **[AI-Driven CRM Analytics System](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System)** [![GitHub_Stars](https://img.shields.io/github/stars/Isha2605/AI-Driven-CRM-Analytics-System?style=social&color=white)](https://github.com/Isha2605/AI-Driven-CRM-Analytics-System/stargazers)  
     Full-stack AI CRM featuring 82% lead classification accuracy across 10,000+ customer records using KNN + Feedforward Neural Networks, employee quota performance prediction, and a PyTorch chatbot.
 
-19. **[CallSense](https://github.com/aaron-seq/ML-voice-lead-analysis)** [![GitHub stars](https://img.shields.io/github/stars/aaron-seq/ML-voice-lead-analysis?style=social&color=white)](https://github.com/aaron-seq/ML-voice-lead-analysis/stargazers)  
+19. **[CallSense](https://github.com/aaron-seq/ML-voice-lead-analysis)** [![GitHub_Stars](https://img.shields.io/github/stars/aaron-seq/ML-voice-lead-analysis?style=social&color=white)](https://github.com/aaron-seq/ML-voice-lead-analysis/stargazers)  
     Self-hosted conversation intelligence turning recorded sales calls into qualified leads with explainable 0–100 scores, 7 objection classifiers, 10 BANT/MEDDIC intent signals, and deal risk flags.
 
-20. **[b2b-revenue-forecasting](https://github.com/shreyasrkarwa/Analytics)** [![GitHub stars](https://img.shields.io/github/stars/shreyasrkarwa/Analytics?style=social&color=white)](https://github.com/shreyasrkarwa/Analytics/stargazers)  
+20. **[b2b-revenue-forecasting](https://github.com/shreyasrkarwa/Analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/shreyasrkarwa/Analytics?style=social&color=white)](https://github.com/shreyasrkarwa/Analytics/stargazers)  
     Specialized Python framework for enterprise B2B quota cascading via Directed Acyclic Graph (DAG) sales org hierarchies and `CommitReconciler` for fixing rep forecasting bias (sandbagging / over-committing). Available on [PyPI](https://pypi.org/project/b2b-revenue-forecasting/).
 
-21. **[SalesIQ](https://github.com/badrr06/SalesIq)** [![GitHub stars](https://img.shields.io/github/stars/badrr06/SalesIq?style=social&color=white)](https://github.com/badrr06/SalesIq/stargazers)  
+21. **[SalesIQ](https://github.com/badrr06/SalesIq)** [![GitHub_Stars](https://img.shields.io/github/stars/badrr06/SalesIq?style=social&color=white)](https://github.com/badrr06/SalesIq/stargazers)  
     Modular Flask web app for sales management and forecasting. Includes KPI dashboards, product performance rankings, and monthly sales + 6-month ARIMA/SARIMAX revenue projections.
 
-22. **[afrikana-analytics](https://github.com/Peterson-Muriuki/afrikana-analytics)** [![GitHub stars](https://img.shields.io/github/stars/Peterson-Muriuki/afrikana-analytics?style=social&color=white)](https://github.com/Peterson-Muriuki/afrikana-analytics/stargazers)  
+22. **[afrikana-analytics](https://github.com/Peterson-Muriuki/afrikana-analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/Peterson-Muriuki/afrikana-analytics?style=social&color=white)](https://github.com/Peterson-Muriuki/afrikana-analytics/stargazers)  
     Production-ready analytics toolkit featuring Gradient Boosting churn scoring, survival-adjusted Customer Lifetime Value (CLV) calculation, and Monte Carlo revenue simulations. Available on [PyPI](https://pypi.org/project/afrikana-analytics/).
 
-23. **[lead-scoring-ai-mcp](https://github.com/CSOAI-ORG/lead-scoring-ai-mcp)** [![GitHub stars](https://img.shields.io/github/stars/CSOAI-ORG/lead-scoring-ai-mcp?style=social&color=white)](https://github.com/CSOAI-ORG/lead-scoring-ai-mcp/stargazers)  
+23. **[lead-scoring-ai-mcp](https://github.com/CSOAI-ORG/lead-scoring-ai-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/CSOAI-ORG/lead-scoring-ai-mcp?style=social&color=white)](https://github.com/CSOAI-ORG/lead-scoring-ai-mcp/stargazers)  
     Model Context Protocol (MCP) server for automated B2B lead scoring, engagement tracking (emails, demo requests, meetings), and conversion probability estimation. Available on [npm](https://www.npmjs.com/package/lead-scoring-ai-mcp).
 
 ---
